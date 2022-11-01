@@ -1,3 +1,7 @@
-# JAVASCRIPT TRY(₺) FORMATTER
+# JAVASCRIPT CURRENCY FORMATTER
 
-Parametre olarak gelen ınt veya float değeri ₺ cinsinde daha anlaşılır bir şekilde döndürür.
+This function properly returns a currency
+
+Example
+
+- 10249.86 -> 10.249,86
